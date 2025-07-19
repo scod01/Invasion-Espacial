@@ -38,6 +38,8 @@ python Main.py
 
 
 ## 👨‍💻 Autor
-++David Suárez**
-[GitHub](https://github.com/scod01)
-[LinkedIn](www.linkedin.com/in/davidsuarez-dev)
+**David Suárez**
+[GithHub](https://github.com/scod01)
+[LinkedIn](https://www.linkedin.com/in/davidsuarez-dev)
+
+¡Gracias por visitar este proyecto! Si te ha gustado, no olvides dejar una ⭐ en el repositorio.
