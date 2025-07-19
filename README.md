@@ -30,11 +30,11 @@ _Invasión Espacial_ es un juego arcade 2D inspirado en los clásicos de 16 bits
 
 ## 📸 Vista previa
 
-![Captura del juego](assets/captura1.png)
+![Captura del juego](img/captura1.png)
 
-![Captura del juego](assets/captura2.png)
+![Captura del juego](img/captura2.png)
 
-![Captura del juego](assets/captura3.png)
+![Captura del juego](img/captura3.png)
 
 
 ## 📦 Ejecutar el juego
