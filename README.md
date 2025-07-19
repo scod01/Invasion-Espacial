@@ -28,11 +28,19 @@ _Invasión Espacial_ es un juego arcade 2D inspirado en los clásicos de 16 bits
 - Menú retro con imagen de presentación
 - Power-ups, puntuación y HUD integrado
 
+## 📸 Vista previa
+
+![Captura del juego](assets/captura1.png)
+
+![Captura del juego](assets/captura2.png)
+
+![Captura del juego](assets/captura3.png)
+
+
 ## 📦 Ejecutar el juego
 
 ### Desde código fuente
 
-```bash
 pip install pygame
 python Main.py
 
